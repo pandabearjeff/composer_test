@@ -1,0 +1,13 @@
+{
+    "name": "jeff/composer_test",
+    "authors": [
+        {
+            "name": "Jeff Cheong",
+            "email": "spatato89@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.17",
+        "twig/twig": "^1.23"
+    }
+}
